@@ -13,10 +13,10 @@ This project sharpened my skills in algorithm design, data structures, and optim
 What I had to do:
 * Parse input arguments into a stack of integers with validation (no duplicates, valid numbers)
 * Implement a set of allowed operations:
-* `sa`, `sb`, `ss` (swap top elements)
-* `pa`, `pb` (push between stacks)
-* `ra`, `rb`, `rr` (rotate stack upwards)
-* `rra`, `rrb`, `rrr` (rotate stack downwards)
+  * `sa`, `sb`, `ss` (swap top elements)
+  * `pa`, `pb` (push between stacks)
+  * `ra`, `rb`, `rr` (rotate stack upwards)
+  * `rra`, `rrb`, `rrr` (rotate stack downwards)
 * Develop an algorithm to sort the initial stack with minimal operations
 * Handle edge cases such as already sorted input, small stacks, or reverse-sorted data
 
@@ -31,11 +31,11 @@ My Approach: Custom Optimized Algorithm
 
 Bonus Part: Checker Program
 * For the bonus, I implemented a checker program that:
-* Takes the same input stack and reads a series of commands (operations) from standard input
-* Applies these commands to the stack(s) to verify if the stack is correctly sorted at the end
-* Validates correctness and outputs "OK" if sorted or "KO" if not
-* Ensures the commands used by push_swap are valid and correctly executed
-* Provides an additional layer of reliability and testing for the sorting algorithm
+  * Takes the same input stack and reads a series of commands (operations) from standard input
+  * Applies these commands to the stack(s) to verify if the stack is correctly sorted at the end
+  * Validates correctness and outputs "OK" if sorted or "KO" if not
+  * Ensures the commands used by push_swap are valid and correctly executed
+  * Provides an additional layer of reliability and testing for the sorting algorithm
 
 What I Learned:
 * Deep understanding of stack operations and constraints
@@ -45,8 +45,6 @@ What I Learned:
 * Improving performance through analysis and testing with diverse input sets
 
 Push_swap pushed me to think algorithmically about efficiency and resource constraints. Creating my own optimized solution not only improved my problem-solving skills but also gave me a better appreciation for the intricacies behind sorting algorithms and low-level data manipulation.
-
-Here are sorting examples for 100 and 500 elements :
 
 <p align="center">
   <img width="400" height="258" alt="Gif_100" src="https://github.com/user-attachments/assets/5d54b1b4-9f4f-4cdf-ab24-16348a081f05" />
