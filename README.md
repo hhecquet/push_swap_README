@@ -49,8 +49,8 @@ Push_swap pushed me to think algorithmically about efficiency and resource const
 Here are sorting examples for 100 and 500 elements :
 
 <p align="center">
-  <img width="500" height="258" alt="Gif_100" src="https://github.com/user-attachments/assets/5d54b1b4-9f4f-4cdf-ab24-16348a081f05" />
-  <img width="500" height="258" alt="Gif_500" src="https://github.com/user-attachments/assets/f7e1c367-408a-4517-9c6b-06333b95420f" />
+  <img width="400" height="258" alt="Gif_100" src="https://github.com/user-attachments/assets/5d54b1b4-9f4f-4cdf-ab24-16348a081f05" />
+  <img width="400" height="258" alt="Gif_500" src="https://github.com/user-attachments/assets/f7e1c367-408a-4517-9c6b-06333b95420f" />
 </p>
 
 Images are generated thanks to the [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) by [o-reo](https://github.com/o-reo)
