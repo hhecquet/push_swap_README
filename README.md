@@ -46,6 +46,8 @@ What I Learned:
 
 Push_swap pushed me to think algorithmically about efficiency and resource constraints. Creating my own optimized solution not only improved my problem-solving skills but also gave me a better appreciation for the intricacies behind sorting algorithms and low-level data manipulation.
 
+Here are some sorting exemples of 100 and 500 numbers :
+
 <p align="center">
   <img width="400" height="258" alt="Gif_100" src="https://github.com/user-attachments/assets/5d54b1b4-9f4f-4cdf-ab24-16348a081f05" />
   <img width="400" height="258" alt="Gif_500" src="https://github.com/user-attachments/assets/f7e1c367-408a-4517-9c6b-06333b95420f" />
